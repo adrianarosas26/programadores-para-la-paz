@@ -1,0 +1,26 @@
+Comandos utilizados durante la actividad de la semana 2:
+
+# Ver la ubicación actual del proyecto
+pwd
+
+# Ver los archivos y carpetas existentes
+ls
+
+# Crear la carpeta de la semana
+mkdir semana2
+
+# Entrar a la carpeta recién creada
+cd semana2
+
+# Crear los archivos de la actividad
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
+
+# Verificar que los archivos fueron creados correctamente
+ls
+
+# Registrar los cambios en Git
+git add .
+git commit -m "Actividad semana 2"
+git push
