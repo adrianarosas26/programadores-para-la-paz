@@ -1,0 +1,24 @@
+Reflexión Semana 5
+===================
+
+Las APIs tienen un potencial enorme para transformar la forma en que
+las comunidades se organizan y comparten información. En un barrio o
+municipio, por ejemplo, una API bien diseñada permitiría que los
+vecinos reporten problemas como daños en infraestructura, cortes de
+servicios o situaciones de emergencia desde sus celulares, y que esa
+información llegue de forma inmediata y ordenada a quienes pueden
+actuar. Sin una API, cada reporte llegaría por canales distintos como
+llamadas, mensajes de WhatsApp o papeles físicos, lo que hace muy
+difícil hacer seguimiento.
+
+Gracias a las APIs, distintas aplicaciones pueden comunicarse entre sí.
+Por ejemplo, una app comunitaria podría conectarse con el sistema de la
+alcaldía, con una plataforma de mapas para geolocalizar los reportes, y
+con un servicio de notificaciones para alertar a los líderes comunales.
+Todo esto sería posible porque cada sistema habla con los demás a
+través de sus APIs, usando un lenguaje común como JSON.
+
+En resumen, las APIs actúan como el sistema nervioso de una comunidad
+digital: permiten que la información fluya de forma rápida, estructurada
+y confiable entre ciudadanos, organizaciones y autoridades, haciendo
+que la participación comunitaria sea más efectiva y transparente.

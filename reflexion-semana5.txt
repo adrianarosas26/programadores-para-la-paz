@@ -1,0 +1,22 @@
+Pruebas de rutas - Semana 5
+===========================
+
+Ruta 1: http://localhost:3000
+-------------------------------
+Al acceder a esta ruta raíz, el servidor responde con el texto plano
+"Servidor activo". Es la ruta de inicio que confirma que el servidor
+está funcionando correctamente.
+
+Ruta 2: http://localhost:3000/saludo
+--------------------------------------
+Al acceder a esta ruta, el servidor responde con el mensaje
+"Hola comunidad". Es una ruta estática que siempre devuelve
+el mismo texto sin importar quién la consulte.
+
+Ruta 3: http://localhost:3000/mensaje/juan
+-------------------------------------------
+Al acceder a esta ruta, el servidor lee el parámetro dinámico
+":nombre" de la URL (en este caso "juan") y responde con el mensaje
+personalizado "Hola juan". Si se cambia el valor en la URL, por ejemplo
+/mensaje/Maria, el servidor responderá "Hola Maria". Esto demuestra
+el uso de parámetros de ruta en Express.
