@@ -1,0 +1,25 @@
+Reflexión - Semana 6
+---------------------
+Las plataformas tecnológicas tienen la capacidad de acercar a los
+ciudadanos con las instituciones y organizaciones que gestionan
+sus comunidades, y una de las formas más importantes de lograr
+esto es permitiendo que las personas envíen información de manera
+estructurada a través de formularios, aplicaciones o servicios web.
+
+Cuando un ciudadano puede reportar una incidencia, registrar una
+solicitud o enviar un mensaje mediante un formato claro como JSON,
+esa información llega organizada al sistema, lo que facilita su
+procesamiento, almacenamiento y atención oportuna. Sin esta
+estructura, los reportes serían difíciles de leer, clasificar
+o priorizar por parte de quienes deben atenderlos.
+
+Desde el punto de vista técnico, herramientas como Express y el
+uso de req.body permiten construir servicios capaces de recibir
+estos datos de forma eficiente y confiable. Esto demuestra que
+programar no es solo una habilidad técnica, sino también una
+forma de construir soluciones con impacto real en la comunidad.
+
+En conclusión, recibir datos estructurados de los ciudadanos
+es el primer paso para construir plataformas útiles, transparentes
+y participativas, que respondan a necesidades reales y fortalezcan
+la relación entre la tecnología y el bienestar colectivo.

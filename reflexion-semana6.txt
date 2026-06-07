@@ -1,0 +1,23 @@
+Ejemplo de JSON para reportar una incidencia comunitaria
+---------------------------------------------------------
+Ruta: POST http://localhost:3000/incidencia
+
+JSON enviado por el ciudadano:
+
+{
+  "tipo": "Vía en mal estado",
+  "descripcion": "Los vecinos del barrio El Progreso reportan un hueco de gran tamaño en la calle principal que representa un riesgo para peatones y vehículos, especialmente en horas nocturnas."
+}
+
+Respuesta del servidor:
+
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Vía en mal estado",
+  "descripcion": "Los vecinos del barrio El Progreso reportan un hueco de gran tamaño en la calle principal que representa un riesgo para peatones y vehículos, especialmente en horas nocturnas."
+}
+
+Este ejemplo refleja cómo una plataforma comunitaria podría permitir
+que cualquier ciudadano reporte una situación de su barrio de forma
+estructurada, facilitando la gestión de solicitudes por parte de
+las autoridades correspondientes.
