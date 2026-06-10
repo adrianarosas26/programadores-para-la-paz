@@ -1,0 +1,26 @@
+Reflexión - Semana 7
+---------------------
+Que una comunidad pueda registrar y consultar reportes en una plataforma
+tecnológica representa un avance significativo en la forma en que los
+ciudadanos se relacionan con las instituciones y con su entorno.
+Cuando alguien puede enviar un reporte desde su celular o computador,
+se elimina la barrera de tener que desplazarse a una oficina, hacer
+filas o depender de intermediarios para que su voz sea escuchada.
+
+Desde el punto de vista técnico, el uso de arrays para almacenar reportes
+en memoria permite comprender la lógica básica de cómo una API organiza
+la información que recibe. Con las rutas GET y POST se puede registrar
+una incidencia y luego consultarla, lo que simula el funcionamiento de
+sistemas reales como los portales de atención ciudadana o las apps de
+reporte de servicios públicos.
+
+Además, una plataforma de este tipo permite que las instituciones tengan
+un registro ordenado de las necesidades de la comunidad, lo que facilita
+priorizar intervenciones, asignar recursos y hacer seguimiento a cada caso.
+Esto fortalece la transparencia y la confianza entre los ciudadanos
+y quienes administran los servicios comunitarios.
+
+En conclusión, la tecnología bien aplicada puede convertirse en un puente
+entre la comunidad y quienes tienen la responsabilidad de atenderla,
+y construir ese puente empieza por entender cómo funciona una API sencilla
+como la que desarrollamos esta semana.

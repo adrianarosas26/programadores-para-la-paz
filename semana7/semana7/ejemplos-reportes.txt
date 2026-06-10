@@ -1,0 +1,14 @@
+Ejemplos de reportes ciudadanos para el sistema comunitario
+------------------------------------------------------------
+
+Ejemplo 1:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público en la calle 5 con carrera 8, el poste lleva más de una semana sin funcionar y representa un riesgo de seguridad para los peatones en horas nocturnas."
+}
+
+Ejemplo 2:
+{
+  "tipo": "Ambiente",
+  "descripcion": "Acumulación de residuos sólidos en el parque central del barrio La Esperanza. Los habitantes reportan que el camión recolector no ha pasado en los últimos cinco días y el olor afecta a las familias cercanas."
+}

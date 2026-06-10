@@ -1,0 +1,68 @@
+Prueba de las rutas GET y POST /reportes
+-----------------------------------------
+
+PASO 1 — Registrar un reporte con POST
+Se envió una petición POST a http://localhost:3000/reportes
+con el siguiente JSON:
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+El servidor respondió:
+
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+}
+
+PASO 2 — Registrar un segundo reporte con POST
+Se envió otra petición POST con:
+
+{
+  "tipo": "Ambiente",
+  "descripcion": "Acumulación de residuos en una zona comunitaria"
+}
+
+El servidor respondió:
+
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 2,
+    "tipo": "Ambiente",
+    "descripcion": "Acumulación de residuos en una zona comunitaria"
+  }
+}
+
+PASO 3 — Consultar todos los reportes con GET
+Se envió una petición GET a http://localhost:3000/reportes
+
+El servidor respondió con la lista completa de reportes registrados:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  },
+  {
+    "id": 2,
+    "tipo": "Ambiente",
+    "descripcion": "Acumulación de residuos en una zona comunitaria"
+  }
+]
+
+Explicación:
+Cada vez que se hace un POST, el servidor crea un objeto con un id
+automático, lo agrega al array "reportes" en memoria y lo devuelve
+como confirmación. Cuando se hace un GET, el servidor retorna todo
+el array acumulado hasta ese momento.
+Es importante tener en cuenta que si el servidor se reinicia, el array
+vuelve a estar vacío, ya que los datos se guardan solo en memoria
+y no en una base de datos persistente.
