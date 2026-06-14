@@ -1,0 +1,15 @@
+REFLEXION DE LA SEMANA 9
+Estudiante: Yesmith Rosas
+
+Es muy importante que las plataformas tecnologicas que usan las comunidades
+funcionen de manera estable y segura en un servidor, porque de ellas dependen
+servicios y procesos que afectan directamente a las personas. Cuando una
+plataforma se cae o presenta fallas constantes, se interrumpe la participacion de
+la comunidad y se pierde la confianza en la herramienta. Un servidor estable
+garantiza que la informacion este disponible cuando se necesita y que los usuarios
+puedan acceder sin interrupciones. La seguridad, por su parte, protege los datos
+personales y evita que terceros manipulen o roben informacion sensible. Los logs y
+el monitoreo permiten detectar a tiempo los errores y corregirlos antes de que se
+conviertan en problemas mayores. Por eso, mantener servidores estables, seguros y
+bien documentados no es solo un tema tecnico, sino una forma de cuidar y respetar
+a las comunidades que dependen de estas plataformas digitales.

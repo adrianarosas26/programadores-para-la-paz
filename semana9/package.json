@@ -1,0 +1,12 @@
+{
+  "name": "semana9",
+  "version": "1.0.0",
+  "description": "Actividad semana 9 - Servidor Node.js con Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.2"
+  }
+}

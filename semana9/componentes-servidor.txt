@@ -1,0 +1,26 @@
+COMPONENTES DE UN ENTORNO SERVIDOR
+Estudiante: Yesmith Rosas
+
+Sistema operativo
+Es la base sobre la que funciona todo el entorno servidor. Administra los
+recursos del equipo (memoria, procesos, red y archivos) y permite que Node.js y
+la aplicacion se ejecuten correctamente.
+
+Node.js
+Es el entorno de ejecucion que permite correr codigo JavaScript fuera del
+navegador, en el servidor. Gracias a Node.js el archivo server.js puede ejecutarse
+y atender las solicitudes de los usuarios.
+
+Aplicacion server.js
+Es el codigo de nuestra aplicacion. Define las rutas (/ y /estado) y la logica
+que determina como responde el servidor ante cada solicitud que recibe.
+
+Puerto
+Es el numero (en este caso el 3000) que identifica el punto de comunicacion por
+donde el servidor escucha las solicitudes. Permite que el navegador sepa a donde
+enviar las peticiones dentro del equipo.
+
+Logs
+Son los registros que guardan la actividad y los eventos del servidor, como
+inicios, accesos y errores. Sirven para monitorear el funcionamiento, detectar
+fallos y mantener la estabilidad del servicio.
