@@ -1,0 +1,17 @@
+Reflexión - Semana 8
+
+La seguridad digital es fundamental para proteger plataformas tecnológicas que
+usan comunidades o procesos participativos, porque estas plataformas manejan
+información sensible de muchas personas: datos personales, opiniones, decisiones
+colectivas y, en muchos casos, recursos económicos. Si estos sistemas no cuentan
+con protecciones adecuadas, se vuelven vulnerables a ataques que pueden filtrar
+información privada, suplantar identidades o manipular procesos participativos
+como votaciones o consultas comunitarias. Además, la confianza es el elemento
+central de cualquier iniciativa comunitaria; si los usuarios perciben que sus
+datos no están protegidos, dejarán de participar, debilitando el propósito
+colectivo del proyecto. Aplicar buenas prácticas como contraseñas fuertes,
+conexiones seguras, registro de accesos y control de permisos no es solo una
+tarea técnica, sino una responsabilidad ética hacia las personas que confían en
+la plataforma. Por eso, comprender Linux, la terminal y los fundamentos de
+seguridad digital permite construir soluciones tecnológicas más confiables y
+sostenibles al servicio de la comunidad.

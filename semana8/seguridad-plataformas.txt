@@ -1,0 +1,19 @@
+Buenas prácticas de seguridad para plataformas digitales comunitarias
+
+1. No exponer datos personales de los miembros de la comunidad (nombres,
+   direcciones, teléfonos) en repositorios públicos o interfaces sin control
+   de acceso.
+
+2. Proteger las credenciales de acceso mediante contraseñas fuertes,
+   autenticación de dos factores y almacenamiento cifrado (nunca en texto plano).
+
+3. Usar conexiones seguras (HTTPS/TLS) para toda comunicación entre los
+   usuarios y la plataforma, evitando la transmisión de información en texto
+   claro.
+
+4. Registrar los accesos y las acciones importantes del sistema (logs de
+   auditoría) para poder detectar actividades sospechosas o no autorizadas.
+
+5. Limitar el acceso a la información sensible aplicando el principio de
+   mínimo privilegio, otorgando a cada usuario solo los permisos necesarios
+   según su rol dentro de la plataforma.
