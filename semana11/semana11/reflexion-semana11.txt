@@ -1,0 +1,7 @@
+Reflexión - Semana 11
+
+Una plataforma tecnológica que promueve la participación ciudadana debe tener base de datos, autenticación de usuarios y protección de información porque estos tres elementos son la base de la confianza que la comunidad deposita en la herramienta. La base de datos permite organizar de forma estructurada las causas, apoyos y reportes, evitando que la información se pierda o quede dispersa, y facilita hacer seguimiento real a cada iniciativa a lo largo del tiempo.
+
+La autenticación, por su parte, garantiza que solo las personas correctas puedan crear, modificar o eliminar información, evitando que cualquier usuario anónimo altere el sistema sin ningún tipo de responsabilidad. Sin este control, la plataforma perdería credibilidad rápidamente, porque no habría forma de saber quién hizo qué cambio.
+
+Finalmente, la protección de información sensible es indispensable porque una plataforma ciudadana maneja datos de personas reales: si se exponen contraseñas, documentos o datos personales sin cuidado, se pone en riesgo la seguridad de quienes participan. Por eso, una plataforma de este tipo no solo debe funcionar técnicamente, sino que debe diseñarse desde el inicio con criterios de privacidad, control de acceso y trazabilidad, para que la tecnología realmente fortalezca la participación en lugar de exponer a la comunidad.

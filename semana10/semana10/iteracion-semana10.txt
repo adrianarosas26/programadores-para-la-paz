@@ -1,0 +1,15 @@
+Iteración - Semana 10
+
+¿Qué 2 tareas del backlog harías primero?
+1. Registrar una incidencia para dejar evidencia del caso.
+2. Recibir una alerta en Telegram para revisar un nuevo reporte.
+
+¿Por qué son las más importantes?
+Sin el registro de incidencias no existe información para trabajar, es la base de todo el proceso de veeduría. La alerta en Telegram es igual de urgente porque permite que el coordinador reaccione rápido ante un caso nuevo, en lugar de enterarse días después revisando el sistema manualmente. Estas dos tareas forman el flujo mínimo que hace útil la herramienta desde el primer momento.
+
+¿Qué significa para ti que una tarea esté "terminada"?
+Definición de terminado (Definition of Done):
+1. Funciona: la funcionalidad realiza lo que promete la historia de usuario, sin errores críticos.
+2. Fue probada: se verificó manualmente (o con pruebas automatizadas) que el flujo completo responde correctamente, incluyendo casos donde algo sale mal.
+3. Quedó registrada en Git: el código está commiteado y subido al repositorio con un mensaje claro.
+4. No expone información sensible: se revisó que ningún dato personal se envíe por canales no seguros como Telegram.

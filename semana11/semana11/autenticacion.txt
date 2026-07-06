@@ -1,0 +1,7 @@
+Autenticación - Semana 11
+
+El login permite identificar a un usuario antes de darle acceso a ciertas funciones de la plataforma, verificando que sus credenciales (usuario y contraseña) sean correctas antes de autorizar cualquier acción.
+
+Algunas rutas deben estar protegidas porque no toda la información o funcionalidad debe estar disponible para cualquier visitante. Por ejemplo, crear una causa, editar un registro o eliminar un apoyo son acciones que solo deberían realizar usuarios autenticados y con el rol adecuado, ya que de lo contrario cualquier persona podría alterar la información de la plataforma sin control ni responsabilidad.
+
+No se deben exponer públicamente contraseñas (ni siquiera en forma de hash visible), documentos de identidad, números de teléfono, direcciones físicas exactas, tokens de acceso, claves de API, ni ningún dato sensible de la comunidad. La interfaz pública solo debería mostrar la información necesaria para el seguimiento de las causas (título, descripción, estado, contador de apoyos), dejando cualquier dato personal protegido detrás de rutas autenticadas y con acceso limitado según el rol del usuario.

@@ -1,0 +1,18 @@
+Automatización - Semana 10
+
+¿Qué evento activa el flujo?
+Un ciudadano registra un nuevo reporte de incidencia en el sistema de veeduría (por ejemplo, a través de un formulario web).
+
+¿Qué mensaje se enviaría a Telegram?
+"Nuevo reporte recibido. Tipo: [categoría de la incidencia]. Estado: pendiente de revisión. Ingresa al sistema para más detalles."
+
+¿Qué información no debería enviarse por seguridad?
+No deben enviarse por Telegram:
+- Nombres completos de los ciudadanos que reportan.
+- Números de documento de identidad.
+- Direcciones exactas o datos de ubicación precisa.
+- Números de teléfono o correos personales.
+- Contraseñas, tokens de Telegram o claves de API.
+- Cualquier detalle sensible del caso que pueda identificar a testigos o afectados.
+
+El mensaje debe limitarse a información general (tipo de incidencia, estado, fecha) y remitir al sistema interno, con acceso controlado, para consultar los detalles completos.
