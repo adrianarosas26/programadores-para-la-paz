@@ -1,0 +1,24 @@
+Modelo de datos - Petición en 3 Clics
+
+Entidad: Causa
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+
+Propósito:
+Guardar la información central de cada petición comunitaria: qué se está solicitando, por qué y desde cuándo está abierta. Es la entidad base sobre la que se construye todo el seguimiento y, eventualmente, el documento PDF generado.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id
+- causa_id
+- nombre
+- fecha
+
+Propósito:
+Registrar cada apoyo individual que recibe una causa, permitiendo calcular el contador total de apoyos y llevar trazabilidad de cuándo se fue sumando respaldo a la petición. El campo "nombre" debe limitarse a un identificador básico (por ejemplo, un nombre de usuario), evitando guardar datos personales completos que no sean necesarios para el conteo.

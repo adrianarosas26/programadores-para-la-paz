@@ -1,0 +1,18 @@
+Automatización - Petición en 3 Clics
+
+Evento: nueva causa registrada en la plataforma.
+
+Mensaje: "Nueva causa creada en la plataforma. Revisa el panel para más detalles."
+
+Evento adicional: la causa alcanza el número mínimo de apoyos y se genera el documento PDF.
+
+Mensaje: "Se generó el documento de petición para una causa. Ya está disponible para revisión del equipo coordinador."
+
+Información que no debe enviarse por seguridad:
+- Cédulas o números de documento de identidad.
+- Teléfonos o correos personales.
+- Direcciones físicas exactas.
+- Comentarios sensibles o detalles que puedan identificar a personas específicas.
+- Contraseñas, tokens de Telegram o claves de API.
+
+Los mensajes automáticos deben limitarse a información general del evento (qué pasó, cuándo), remitiendo siempre al sistema interno con acceso controlado para consultar los detalles completos.

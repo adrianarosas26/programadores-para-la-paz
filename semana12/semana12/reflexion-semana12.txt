@@ -1,0 +1,7 @@
+Reflexión - Semana 12
+
+Durante el curso aprendí que la tecnología puede fortalecer la participación ciudadana y la organización comunitaria mucho más allá de escribir código: se trata de diseñar sistemas completos que integren backend, base de datos, documentos y automatización al servicio de las personas. Cada semana fue sumando una pieza distinta, desde organizar el trabajo con backlog e iteraciones, hasta guardar información de forma responsable y generar documentos formales que la comunidad pueda usar en la práctica.
+
+También entendí que la privacidad y el manejo responsable de los datos no son un detalle secundario, sino una condición para que cualquier plataforma comunitaria sea confiable. Minimizar la información sensible, controlar quién accede a qué, y automatizar solo lo que realmente aporta valor sin exponer a las personas, son decisiones de diseño tan importantes como que el sistema funcione técnicamente.
+
+Con "Petición en 3 Clics" pude ver cómo todos estos conceptos se conectan en un solo flujo: una causa se registra, la comunidad la apoya, el sistema hace seguimiento y finalmente se traduce en un documento formal que representa la voz de un grupo de ciudadanos. Esa es, para mí, la lección más importante del curso: la tecnología comunitaria es poderosa cuando se construye con criterio, organización y respeto por las personas que la usan.
